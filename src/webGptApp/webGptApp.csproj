@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+
+        <!-- Project Metadata -->
+        <AssemblyTitle>webGptApp</AssemblyTitle>
+        <Product>webGpt</Product>
+        <Description>A web application that integrates GPT for intelligent conversational experiences using Blazor Server.</Description>
+        <Company>Purrfect Code</Company>
+        <Authors>nao7sep</Authors>
+        <Copyright>Copyright © 2025</Copyright>
+        <Version>0.1</Version>
+        <PackageLicenseExpression>GPL-3.0</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/nao7sep/webGpt</RepositoryUrl>
+    </PropertyGroup>
+
+</Project>
