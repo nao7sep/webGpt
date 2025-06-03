@@ -7,23 +7,23 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webGptApp", "src\webGptApp\webGptApp.csproj", "{AF2B73B2-E055-5773-921D-7A53ABC3320C}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AF2B73B2-E055-5773-921D-7A53ABC3320C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF2B73B2-E055-5773-921D-7A53ABC3320C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF2B73B2-E055-5773-921D-7A53ABC3320C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF2B73B2-E055-5773-921D-7A53ABC3320C}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{AF2B73B2-E055-5773-921D-7A53ABC3320C} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6836E011-E6F9-4BFE-A5FC-381A435E11F7}
-	EndGlobalSection
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {AF2B73B2-E055-5773-921D-7A53ABC3320C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {AF2B73B2-E055-5773-921D-7A53ABC3320C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {AF2B73B2-E055-5773-921D-7A53ABC3320C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {AF2B73B2-E055-5773-921D-7A53ABC3320C}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+    GlobalSection(NestedProjects) = preSolution
+        {AF2B73B2-E055-5773-921D-7A53ABC3320C} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+    EndGlobalSection
+    GlobalSection(ExtensibilityGlobals) = postSolution
+        SolutionGuid = {6836E011-E6F9-4BFE-A5FC-381A435E11F7}
+    EndGlobalSection
 EndGlobal
